@@ -1,0 +1,5 @@
+Steps to ensure the sript runs correctly:
+1. Place the .env file,rebase_repo.py and requirements.txt in the same directory (Does not need to be in the same direcotry as your repos)
+2.Run the command: "pip install -r requirements.txt", make sure it is run fron the directory where the three files are located
+3. In the .env file, put the path to the root direcotry where your repos are located
+4. Now the script should be good to go , happy rebasing!
